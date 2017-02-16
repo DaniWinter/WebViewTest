@@ -1,0 +1,10 @@
+Package: nl.d4ni.webviewtest
+Name: WebViewTest
+Depends: 
+Architecture: iphoneos-arm
+Description: An awesome application!
+Maintainer: Dani Winter <mail@daniwinter.nl>
+Author: Dani Winter <mail@daniwinter.nl>
+Section: Utilities
+Version: 0.0.1-1
+Installed-Size: 56
